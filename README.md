@@ -1,1 +1,2 @@
-# 7AQ-Ilibrary
+# ESP32-S3 FLASH：16M PSRAM：8M
+LVGL：8.3.3
